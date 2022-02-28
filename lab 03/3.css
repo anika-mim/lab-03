@@ -1,0 +1,25 @@
+fieldset {
+    font-size:14px;
+    padding:1px;
+    width:1200px;
+    height: 800px;
+    line-height:1;
+    background:#ffffff ;
+}
+.paragraph{
+    background: rgb(119, 209, 194);
+    text-align: left;
+    height: 50px;
+
+}
+.paragraph1{
+    background: rgb(119, 209, 194);
+    text-align: center;
+    height: 40px;
+
+}
+.classic{
+    text-align: left;
+}
+  
+  
